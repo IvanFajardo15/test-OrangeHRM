@@ -1,5 +1,5 @@
 Feature: Inicio de Sesion
-
+  
   @Regression
   Scenario: Iniciar sesion en la pagina de OrangeHRM
     Given Ingreso a la pagina OrangeHRM
